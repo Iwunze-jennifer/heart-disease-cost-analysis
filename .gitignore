@@ -1,0 +1,18 @@
+# Power BI temp files
+*.pbix.tmp
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel temp
+~$*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
